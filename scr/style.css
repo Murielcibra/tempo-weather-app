@@ -174,3 +174,9 @@ nav .search-box {
   padding-right: 40px;
   padding-top: 10px;
 }
+
+footer {
+  font-weight: 400;
+  font-size: 14px;
+  color: whitesmoke;
+}
